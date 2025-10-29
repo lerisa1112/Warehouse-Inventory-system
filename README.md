@@ -98,18 +98,4 @@ dotnet run
 
 
 
-![image1](https://github.com/user-attachments/assets/3d7dc47b-96a0-4336-a6b9-72b365726f64)
-
-![image2](https://github.com/user-attachments/assets/90b98d19-a547-4346-bce6-6db0db73a5c0)
-
-![image3](https://github.com/user-attachments/assets/4d4e6f81-84cf-48cd-8179-ba8c8e222ee9)
-
-![image4](https://github.com/user-attachments/assets/2ad12f56-1dd3-4eeb-ac0d-8984901586a5)
-
-![image5](https://github.com/user-attachments/assets/52639743-aa85-478b-a38a-850e82049174)
-![image6](https://github.com/user-attachments/assets/9a5b112e-6c1b-403f-a6ea-4a48710034a1)
-![image7](https://github.com/user-attachments/assets/1ac85265-01f4-45d0-b166-3a0fa3b93896)
-![image8](https://github.com/user-attachments/assets/f5f4c819-f314-4961-aa48-d626235e0e01)
-
-![image10](https://github.com/user-attachments/assets/85b43a84-83fa-4083-b3c9-3aaf36e92f7e)
 

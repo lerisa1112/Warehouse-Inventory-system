@@ -70,6 +70,10 @@ It offers **seamless API integration**, **clean architecture**, and a **dynamic 
 
 <img width="1044" height="600" alt="Screenshot 2025-10-29 215031" src="https://github.com/user-attachments/assets/a1802b4c-c9f2-4a60-8c2a-caff0d04c7fa" />
 
+<img width="1107" height="567" alt="Screenshot 2025-10-29 220246" src="https://github.com/user-attachments/assets/784c3cb9-5784-4da0-9237-3cb1b2f84329" />
+
+<img width="1048" height="586" alt="Screenshot 2025-10-29 220331" src="https://github.com/user-attachments/assets/9ddd497e-0e18-481a-a245-54f5dcb865d8" />
+
 <img width="1040" height="578" alt="Screenshot 2025-10-29 215047" src="https://github.com/user-attachments/assets/c42eb26e-dbf4-485e-8cc8-5e078e715461" />
 
 
@@ -90,7 +94,6 @@ Before running this application, ensure you have the following installed:
 - [.NET 8 SDK](https://dotnet.microsoft.com/en-us/download)
 - [Visual Studio Code](https://code.visualstudio.com/) or Visual Studio 2022
 - [Git](https://git-scm.com/) (optional for version control)
-
 
 
 

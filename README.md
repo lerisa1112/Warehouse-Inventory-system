@@ -91,13 +91,11 @@ dotnet run
 
 ---
 
-## Output ![image1](https://github.com/user-attachments/assets/8d976003-5d3f-42d2-879f-a8e317990d29)
-![image2](https://github.com/user-attachments/assets/3f55e438-81c5-473b-858d-d1742f6fbfa1)
-![image3](https://github.com/user-attachments/assets/bdf10b03-311a-4c23-a8ea-7d3dda3d9c05)
-![image4](https://github.com/user-attachments/assets/9b14f5bf-9b87-4798-81c0-00157ed1ed41)
-![image5](https://github.com/user-attachments/assets/5988724d-7ab8-41e3-8479-2076e380f22f)
-![image6](https://github.com/user-attachm![image7](https://github.com/user-attachments/assets/9939098c-6528-4023-a426-e83fa4794a58)
-ents/assets/fa2e4e1b-535b-49ae-9e2e-814e3945268b)![image8](https://github.com/user-attachments/assets/f82b20fc-c8f7-4812-acf8-350f18a56719)
+## Output
+
+
+
+
 
 
 

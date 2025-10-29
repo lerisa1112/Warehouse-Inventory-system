@@ -60,6 +60,28 @@ It offers **seamless API integration**, **clean architecture**, and a **dynamic 
 
 ---
 
+
+<img width="1038" height="592" alt="Screenshot 2025-10-29 215016" src="https://github.com/user-attachments/assets/adbbf951-6b90-489b-9b6b-0d27f12d3411" />
+
+<img width="1044" height="600" alt="Screenshot 2025-10-29 215031" src="https://github.com/user-attachments/assets/fd125b34-29ad-490c-a08d-7926f9772851" />
+
+<img width="1040" height="578" alt="Screenshot 2025-10-29 215047" src="https://github.com/user-attachments/assets/8c9a3a9e-9cb5-45ce-b3c1-9d1da582cc89" />
+
+<img width="1044" height="600" alt="Screenshot 2025-10-29 215031" src="https://github.com/user-attachments/assets/a1802b4c-c9f2-4a60-8c2a-caff0d04c7fa" />
+
+<img width="1040" height="578" alt="Screenshot 2025-10-29 215047" src="https://github.com/user-attachments/assets/c42eb26e-dbf4-485e-8cc8-5e078e715461" />
+
+
+<img width="1042" height="589" alt="Screenshot 2025-10-29 215101" src="https://github.com/user-attachments/assets/058defa7-8047-44b9-8313-d4c1dc82053d" />
+
+<img width="1198" height="596" alt="Screenshot 2025-10-29 215141" src="https://github.com/user-attachments/assets/b0055d97-6001-4579-92cf-82fb5d8c8294" />
+
+
+
+<img width="1209" height="582" alt="Screenshot 2025-10-29 215212" src="https://github.com/user-attachments/assets/9920f865-81db-4197-8e63-3413ee850d08" />
+
+
+
 ## ⚙️ Prerequisites
 
 Before running this application, ensure you have the following installed:
@@ -93,16 +115,7 @@ dotnet run
 ---
 
 ---
-##output
 
-<img width="1038" height="592" alt="image" src="https://github.com/user-attachments/assets/8e7be259-74c8-49d6-84fe-347326035c2b" />
-<img width="1044" height="600" alt="image" src="https://github.com/user-attachments/assets/ef783ed6-c66a-48d8-a081-09fdf571f77d" />
-<img width="1040" height="578" alt="image" src="https://github.com/user-attachments/assets/32b37bd1-f515-4681-8e7e-23afd6ed2b82" />
-<img width="1042" height="589" alt="image" src="https://github.com/user-attachments/assets/0e57d098-e5b4-49f0-83fa-89a7d3703006" />
-<img width="1051" height="594" alt="image" src="https://github.com/user-attachments/assets/2b578ded-3251-4486-9e32-b0c35ae323d7" />
-<img width="1042" height="583" alt="image" src="https://github.com/user-attachments/assets/6ed9fae9-ad3c-49d6-be90-fb9aae7fdf59" />
-<img width="1198" height="596" alt="image" src="https://github.com/user-attachments/assets/a0767b58-bc95-42ae-87c0-eb1ed4ebf36e" />
-<img width="1209" height="582" alt="image" src="https://github.com/user-attachments/assets/8bf7b084-a92d-48e8-a26c-eaccaa9c646b" />
 
 ---
 

@@ -1,6 +1,6 @@
 # 🏭 Warehouse Inventory Management System 
 
-**Warehouse Inventory Management System ** is a modern and scalable solution built with **ASP.NET Core 9.0** to streamline and optimize warehouse operations.  
+**Warehouse Inventory Management System** is a modern and scalable solution built with **ASP.NET Core 9.0** to streamline and optimize warehouse operations.  
 It offers **seamless API integration**, **clean architecture**, and a **dynamic front end** for efficient inventory management.
 
 ---

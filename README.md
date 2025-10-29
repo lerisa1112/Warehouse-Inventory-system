@@ -60,6 +60,7 @@ It offers **seamless API integration**, **clean architecture**, and a **dynamic 
 
 ---
 
+## Output 
 
 <img width="1038" height="592" alt="Screenshot 2025-10-29 215016" src="https://github.com/user-attachments/assets/adbbf951-6b90-489b-9b6b-0d27f12d3411" />
 
@@ -114,10 +115,6 @@ dotnet run
 
 ---
 
----
-
-
----
 
 
 

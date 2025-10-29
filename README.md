@@ -77,7 +77,7 @@ Follow the steps below to set up and run the application:
 ```bash
 # 1️⃣ Clone or Download the Project
 git clone <your-repository-url>
-cd WarehouseInventoryManagementSystem
+cd WarehouseInventorySystem
 
 # 2️⃣ Open the Project in VS Code
 code .

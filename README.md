@@ -93,6 +93,22 @@ dotnet run
 
 ## Output
 
+<img width="1038" height="592" alt="image" src="https://github.com/user-attachments/assets/8e7be259-74c8-49d6-84fe-347326035c2b" />
+<img width="1044" height="600" alt="image" src="https://github.com/user-attachments/assets/ef783ed6-c66a-48d8-a081-09fdf571f77d" />
+<img width="1040" height="578" alt="image" src="https://github.com/user-attachments/assets/32b37bd1-f515-4681-8e7e-23afd6ed2b82" />
+<img width="1042" height="589" alt="image" src="https://github.com/user-attachments/assets/0e57d098-e5b4-49f0-83fa-89a7d3703006" />
+<img width="1051" height="594" alt="image" src="https://github.com/user-attachments/assets/2b578ded-3251-4486-9e32-b0c35ae323d7" />
+<img width="1042" height="583" alt="image" src="https://github.com/user-attachments/assets/6ed9fae9-ad3c-49d6-be90-fb9aae7fdf59" />
+<img width="1198" height="596" alt="image" src="https://github.com/user-attachments/assets/a0767b58-bc95-42ae-87c0-eb1ed4ebf36e" />
+<img width="1209" height="582" alt="image" src="https://github.com/user-attachments/assets/8bf7b084-a92d-48e8-a26c-eaccaa9c646b" />
+
+
+
+
+
+
+
+
 
 
 

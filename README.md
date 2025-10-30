@@ -120,7 +120,7 @@ dotnet run
 ---
 
 <p align="center">
-  💻 Developed by <b>Desai Lerisa</b><br>
+  💻 Developed by <b>Lerisa Desai</b><br>
   📧 <a href="mailto:lerisadesai@gmail.com">lerisadesai@gmail.com</a> |
   🔗 <a href="https://share.google/Mfhu7voPZfsukuNOc" target="_blank">LinkedIn</a>
 </p>

@@ -60,7 +60,7 @@ It offers **seamless API integration**, **clean architecture**, and a **dynamic 
 
 ---
 
-## Output 
+## 💻 Output 
 
 <img width="1038" height="592" alt="Screenshot 2025-10-29 215016" src="https://github.com/user-attachments/assets/adbbf951-6b90-489b-9b6b-0d27f12d3411" />
 
@@ -102,16 +102,16 @@ Before running this application, ensure you have the following installed:
 Follow the steps below to set up and run the application:
 
 ```bash
-# 1️⃣ Clone or Download the Project
+1️⃣ Clone or Download the Project
 git clone WarehouseInventorySystem
 cd WarehouseInventorySystem
 
-# 2️⃣ Open the Project in VS Code
+2️⃣ Open the Project in VS Code
 code .
 
-# 3️⃣ Restore Dependencies
+3️⃣ Restore Dependencies
 dotnet restore
 
-# 4️⃣ Run the Application
+4️⃣ Run the Application
 dotnet run
 

@@ -115,3 +115,12 @@ dotnet restore
 4️⃣ Run the Application
 dotnet run
 
+```
+
+---
+
+<p align="center">
+  💻 Developed by <b>Desai Lerisa</b><br>
+  📧 <a href="mailto:lerisadesai@gmail.com">lerisadesai@gmail.com</a> |
+  🔗 <a href="  https://www.linkedin.com/in/desai-lerisa-b58447259?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app   " target="_blank">LinkedIn</a>
+</p>
